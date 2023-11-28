@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-dark .nav-item .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-dark .nav-item .nav-link:hover {
+    background-color: #1F2533;
+    transition: all 0.3s ease;
+    border-radius: 0.25rem;
+    color: #fff;
+  }
+  
+  .fa-li {
+    position: relative;
+    left: 0;
+  }
+  .carousel-inner img{
+    max-height: 400px;
+  }
+  
+  .carousel-indicators img {
+    max-width: 100px;
+  }
+  
